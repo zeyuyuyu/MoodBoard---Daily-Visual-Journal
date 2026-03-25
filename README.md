@@ -2,27 +2,20 @@
 
 ## Overview
 
-MoodBoard is an open-source project that provides a simple and intuitive platform for users to create a daily visual journal of their mood and emotions. With this new 'Mood Journaling' feature, users can now easily log their daily mood, add relevant images, and reflect on their emotional state.
+MoodBoard is an open-source application that allows users to create a daily visual journal. Users can upload images, add text and drawings, and organize their entries into a visually appealing board.
 
-## Mood Journaling
+## New Feature: AI-Powered Mood Analysis
 
-The key features of the new 'Mood Journaling' functionality include:
+We are excited to announce a new powerful feature for MoodBoard - AI-powered mood analysis. With this feature, users can upload an image and the application will analyze the image to detect the user's mood. The detected mood will be displayed alongside the image, allowing users to better understand and reflect on their emotional state.
 
-- **Mood Logging**: Users can select from a range of pre-defined mood options (e.g., happy, sad, anxious, calm) to quickly log their current emotional state.
-- **Visual Representation**: Users can upload or capture images that visually represent their mood for the day, creating a rich and expressive journal.
-- **Reflective Notes**: Users can add personal notes to each day's entry, allowing them to reflect on their mood, thoughts, and experiences.
-- **Calendar View**: Users can view their mood journal entries in a calendar format, providing a holistic overview of their emotional journey.
-- **Mood Trends**: Users can analyze their mood data over time, gaining insights into patterns and trends in their emotional well-being.
+### How it works
 
-## Getting Started
+The mood analysis is powered by a pre-trained machine learning model that can detect a range of emotions, including happiness, sadness, anger, fear, and more. When a user uploads an image, the image is sent to the model, which then returns the detected mood. This information is then displayed alongside the image in the user's visual journal.
 
-To use the 'Mood Journaling' feature, simply follow these steps:
+### Usage
 
-1. Open the MoodBoard application.
-2. Click on the 'New Entry' button to create a new daily journal entry.
-3. Select your current mood from the provided options.
-4. Upload or capture an image that represents your mood for the day.
-5. Add any reflective notes or thoughts you would like to include.
-6. Save your entry and watch your mood journal grow.
+To use the mood analysis feature, simply upload an image to your daily journal entry. The detected mood will be automatically displayed next to the image.
 
-We hope that the new 'Mood Journaling' feature will empower users to better understand and manage their emotional well-being. Happy journaling!
+## Contributing
+
+We welcome contributions to the MoodBoard project. If you'd like to contribute, please see the [contributing guidelines](CONTRIBUTING.md) for more information.
